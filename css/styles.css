@@ -1,0 +1,36 @@
+body{
+}
+#display-products{
+  background-color: #e7e6e1;
+  padding:3% 1% 7%;
+}
+#blog-section{
+  background-color: #f7f6e7;
+padding-bottom:7%;
+padding-left:10%;
+padding-right:10%;
+}
+#footer-section{
+  background-color:#5b6d5b;
+  text-align: center;
+  padding-bottom:60px;
+
+}
+
+.icon{
+  margin: 50px 10px 0;
+}
+.cp{
+  color:#99bbad;
+  padding-bottom: 50px;
+}
+.col{
+  padding: 7% 1% 1% 1%;
+}
+h1{
+  padding-top: 7%;
+}
+h5{
+  padding-top:7%;
+  text-align:center;}
+p{padding-top: 3%;}
